@@ -1,11 +1,14 @@
 {
-  "name": "projeto",
+  "name": "clean-code",
   "version": "1.0.0",
   "main": "index.js",
   "author": "Vitor Stelmastchuk",
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^18.8.3",
+    "eslint": "^8.25.0",
+    "eslint-config-standard-with-typescript": "^23.0.0",
     "typescript": "^4.8.4"
-  }
+  },
+  "repository": "https://github.com/stelmastchuk/Estudos-CleanCode.git"
 }
