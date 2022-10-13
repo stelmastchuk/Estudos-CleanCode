@@ -17,6 +17,6 @@
   },
   "repository": "https://github.com/stelmastchuk/Estudos-CleanCode.git",
   "scripts": {
-    "test": "jest"
+    "test": "jest --watch"
   }
 }
